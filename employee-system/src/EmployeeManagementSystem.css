@@ -1,0 +1,10 @@
+.employee-management-system {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: #db34a1;
+  }
